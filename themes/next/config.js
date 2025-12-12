@@ -22,7 +22,7 @@ const CONFIG = {
   NEXT_RIGHT_LATEST_POSTS: true, // 右侧栏最新文章
   NEXT_RIGHT_CATEGORY_LIST: true, // 右侧边栏文章分类列表
   NEXT_RIGHT_TAG_LIST: true, // 右侧边栏标签分类列表
-  NEXT_RIGHT_AD: false, // 右侧广告
+  NEXT_RIGHT_AD: true, // 右侧广告
 
   // 菜单
   NEXT_MENU_HOME: true, // 显示首页
@@ -33,12 +33,12 @@ const CONFIG = {
 
   NEXT_WIDGET_TO_TOP: true, // 是否显示回顶
   NEXT_WIDGET_TO_BOTTOM: false, // 显示回底
-  NEXT_WIDGET_DARK_MODE: false, // 显示日间/夜间模式切换
+  NEXT_WIDGET_DARK_MODE: true, // 显示日间/夜间模式切换
   NEXT_WIDGET_TOC: true, // 移动端显示悬浮目录
 
   NEXT_ARTICLE_RELATE_POSTS: true, // 相关文章推荐
   NEXT_ARTICLE_COPYRIGHT: true, // 文章版权声明
-  NEXT_ARTICLE_NOT_BY_AI: false, // 显示非AI写作
+  NEXT_ARTICLE_NOT_BY_AI: true, // 显示非AI写作
   NEXT_ARTICLE_INFO: true // 显示文章信息
 }
 
