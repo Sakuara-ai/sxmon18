@@ -9,9 +9,9 @@ export default function PoweredBy(props) {
     <div className={`inline text-sm font-serif ${props.className || ''}`}>
       <span className='mr-1'>Powered by</span>
       <a
-        href='https://github.com/Sakuara-ai/sxmon18'
-        className='underline justify-start'>
-        sXmon {siteConfig('VERSION')}
+        href='https://sxm20.dpdns.org'
+        className=''>
+        sXmon {siteConfig('')}
       </a>
       .
     </div>
