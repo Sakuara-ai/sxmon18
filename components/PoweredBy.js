@@ -10,7 +10,7 @@ export default function PoweredBy(props) {
       <span className='mr-1'>Powered by</span>
       <a
         href='https://sxm20.dpdns.org'
-        className=''>
+        className='underline justify-start'>
         sXmon {siteConfig('')}
       </a>
       .
